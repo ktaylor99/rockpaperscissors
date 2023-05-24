@@ -1,5 +1,5 @@
 # Rock, Paper, Scissors - Part One (5/24/23)
----
+
 ## The Challenge 
 The goal of this project is to create a simple, five-round game of rock, paper, scissors between a player and a computer. 
 
