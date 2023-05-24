@@ -1,3 +1,4 @@
+//COMPUTER CHOICE 
 function getComputerChoice(){
     // choices for computer
    var choices = ["rock", "paper", "scissors"]
