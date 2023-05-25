@@ -8,4 +8,15 @@ function getComputerChoice(){
    var randomChoice=choices[random];
    console.log(randomChoice);
 }
-getComputerChoice();
+
+let playerScore = 0;
+let computerScore = 0;
+
+let playerChoice = prompt("What's your move?")
+    if (playerChoice.toLowerCase() === "rock", "paper", "scissors"){
+    getComputerChoice()
+    if (playerChoice === "rock" && getComputerChoice === "paper") {
+        console.log(
+            'Paper beats rock! Computer wins.')
+    }
+    }
